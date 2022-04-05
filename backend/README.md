@@ -2,6 +2,8 @@
 
 The Anythink Market backend is Node web app written with [Express](https://expressjs.com/)
 
+Add New Relic from Heroku
+
 ## Dependencies
 
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - For generating JWTs used by authentication
